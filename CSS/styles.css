@@ -1,0 +1,45 @@
+/* RESETEO */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* VARAIBLES */
+:root {
+    --lav-light: #000000;
+    --lav: #CCCCCC;
+}
+
+/* TIPOGRAFÍA GENERAL */
+body {
+    font-family: font-family: 'Fira Sans', sans-serif;
+    font-family: 'Noto Sans Mono', monospace;
+    font-family: 'Raleway', sans-serif;;
+}
+
+/* FORMULARIO DE CONTACTO */
+
+* {
+  box-sizing: border-box;
+}
+
+.contacto {
+    height: 8rem;
+    text-align: center;
+}
+
+/* FOOTER */
+
+.bi bi-instagram {
+    
+    font-size: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.bi bi-whatsap {
+    font-size: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
